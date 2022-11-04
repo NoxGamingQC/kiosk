@@ -1,5 +1,5 @@
-# delivery-comunicator
+# kiosk
 
-An app to communicate to the kitchen that the delivery driver is comming back to restaurant
+The setup of the kiosk app on raspberry Pi
 
-follow the setup.sh script (Not actually a script yet)
+www.noxgamingqc/ngst/kiosk
