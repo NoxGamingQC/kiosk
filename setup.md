@@ -23,18 +23,12 @@ If you know the Pi's IP address you can access with your built in remote desktop
 
 ## Graphical environement
 
-Install LXDE
-
-- `sudo apt-get install xserver-xorg`
-- `sudo apt-get install xinit`
-- `sudo apt-get install lxde-core lxterminal lxappearance`
-- `sudo apt-get install lightdm`
 
 I highly recommend you to remove the screensaver here is how: `sudo apt-get purge xscreensaver`
 
 ## Install Chromium
 
-- `sudo apt-get install chromium`
+- `sudo apt-get install chromium-browser`
 
 ### The project
 
