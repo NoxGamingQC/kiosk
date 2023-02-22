@@ -6,14 +6,10 @@ Right now you should have a fresh installation. We will walk through all the con
 
 First of all you will need to have wifi setup if you don't have an ethernet cable, here's how to set it up:
 
-- Access the right file: `sudo nano /etc/wpa_supplicant/wpa_supplicant.conf`
-- Add the following at the bottom of the file:
-```
-network={
-ssid="The SSID of your network (eg. Network name)"
-psk="Your Wifi Password"
-}
-```
+The easiest way is through the cmd `raspi-config`.
+Once you ran the command go in `Sytem Options` and then `Wireless LAN`.
+Follow the instruction.
+Reboot if necessary.
 
 ### The project
 
