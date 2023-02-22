@@ -11,6 +11,12 @@ For more information please visit: https://www.noxgamingqc/ngst/kiosk
 
 _P.S. RaspberryPi 4 is not yet supported_
 
+## Graphical environement
+
+`sudo apt-get install xserver-xorg`
+`sudo apt-get install xinit`
+`sudo apt-get install lxde-core lxterminal lxappearance`
+`sudo apt-get install lightd`
 
 ## About those files.
 
