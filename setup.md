@@ -21,6 +21,17 @@ You may need to comment the `dtoverlay=vc4-fkms-v3d` in the file in order for it
 If you know the Pi's IP address you can access with your built in remote desktop app, but first you need to instal xrdp with the following command: 
 `sudo apt-get install xrdp`
 
+## Graphical environement
+
+Install LXDE
+
+- `sudo apt-get install xserver-xorg`
+- `sudo apt-get install xinit`
+- `sudo apt-get install lxde-core lxterminal lxappearance`
+- `sudo apt-get install lightdm`
+
+I highly recommend you to remove the screensaver here is how: `sudo apt-get purge xscreensaver`
+
 ### The project
 
 If you want to have everything to work well you will need this project ;)
