@@ -23,11 +23,15 @@ If you know the Pi's IP address you can access with your built in remote desktop
 
 ## Graphical environement
 
-- Install prerequisites using:`sudo apt-get install --no-install-recommends xserver-xorg x11-xserver-utils xinit openbox
+- Install prerequisites using:`sudo apt-get install --no-install-recommends xserver-xorg x11-xserver-utils xinit openbox`
 
 ## Install Chromium
 
 - `sudo apt-get install --no-install-recommends`
+
+## Clean boot
+- Disable starting rainbow using `sudo nano /boot/config.txt`: add line `disable_splash=1`
+- Disable booting information using `sudo nano /boot/cmdline.txt`: add at the end of first line `silent quiet splash loglevel=0 logo.nologo vt.global_cursor_default=0`, replace `console=tty1` with `console=tty3`
 
 ### The project
 
