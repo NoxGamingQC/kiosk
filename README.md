@@ -18,7 +18,7 @@ Install LXDE
 - `sudo apt-get install xserver-xorg`
 - `sudo apt-get install xinit`
 - `sudo apt-get install lxde-core lxterminal lxappearance`
-- `sudo apt-get install lightd`
+- `sudo apt-get install lightdm`
 
 ## About those files.
 
