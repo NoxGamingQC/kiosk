@@ -35,8 +35,21 @@ If you know the Pi's IP address you can access with your built in remote desktop
 
 ## Adding splash screen
 
-First of all you need to have the splash screen app: `sudo apt -y install rpd-plym-splash`
-Once done go to `raspi-config` and enable splash screen
+- First of all you need to have the splash screen app: `sudo apt -y install rpd-plym-splash` (Useless?)
+- `git clone --depth=1 https://gitlab.com/DarkElvenAngel/initramfs-splash.git`
+- Add this line to the `/boot/config.txt`: `initramfs initramfs.img`
+- Next you need the image you want to display this can be a PNG, JPEG, or BMP copy it to the `/boot` 
+- Edit `/boot/splash.txt`
+```
+## Initramfs-Splash
+image=splash.png
+
+## If it is not fullscreen uncomment below (Can be remove if strech=1)
+## fullscreen=1
+
+## If it doesnt fit the screen properly uncomment below (Has priority over fullscreen)
+## stretch=1
+```
 
 ### The project
 
