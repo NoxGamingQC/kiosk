@@ -1,14 +1,19 @@
-# kiosk
+# Kiosk
 
-The setup of the kiosk app on raspberry Pi
+This is for use the RaspberryPi as a kiosk.
 
-www.noxgamingqc/ngst/kiosk
+For more information please visit: https://www.noxgamingqc/ngst/kiosk
+
+## Requirements
+
+- RaspberryPi 3
 
 
-## This exemple use our cookbook.
+## About those files.
 
+This exemple uses our cookbook for the kiosk found here:
 https://www.noxgamingqc.ca/fr-ca/kiosk/cookbook
 
-Make sure to edit kiosk.sh for each RaspberryPi an image should be included too.
+Make sure to edit `ngst/kiosk.sh` for each RaspberryPi.
 
 The complete setup instruction will be listed [here](setup.md).
