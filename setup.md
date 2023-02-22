@@ -37,7 +37,7 @@ If you know the Pi's IP address you can access with your built in remote desktop
 
 If you want to have everything to work well you will need this project ;)
 
-- Copy the file called `autostart` in : `/etc/xdg/openbox/autostart`
+- Copy the file called `autostart` in : `/etc/xdg/openbox/`
 - To start on the GUI instead of the console add in /home/pi/.bash_profile `[[ -z $DISPLAY && $XDG_VTNR -eq 1 ]] && startx -- -nocursor`
 
 Now, you should be good to go
