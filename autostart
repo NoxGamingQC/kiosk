@@ -15,4 +15,4 @@
 @xset -dpms
 
 # Run the wanted app
-@bash /home/pi/kiosk.sh
+@bash /home/pi/ngst/kiosk.sh
