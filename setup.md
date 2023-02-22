@@ -32,6 +32,10 @@ Install LXDE
 
 I highly recommend you to remove the screensaver here is how: `sudo apt-get purge xscreensaver`
 
+## Install Chromium
+
+- `sudo apt-get install chromium`
+
 ### The project
 
 If you want to have everything to work well you will need this project ;)
