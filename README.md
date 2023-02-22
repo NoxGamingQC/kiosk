@@ -11,4 +11,4 @@ https://www.noxgamingqc.ca/fr-ca/kiosk/cookbook
 
 Make sure to edit kiosk.sh for each RaspberryPi an image should be included too.
 
-The complete setup instruction will be listed here.
+The complete setup instruction will be listed [here](setup.md).
