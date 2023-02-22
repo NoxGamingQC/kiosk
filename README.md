@@ -13,10 +13,12 @@ _P.S. RaspberryPi 4 is not yet supported_
 
 ## Graphical environement
 
-`sudo apt-get install xserver-xorg`
-`sudo apt-get install xinit`
-`sudo apt-get install lxde-core lxterminal lxappearance`
-`sudo apt-get install lightd`
+Install LXDE
+
+- `sudo apt-get install xserver-xorg`
+- `sudo apt-get install xinit`
+- `sudo apt-get install lxde-core lxterminal lxappearance`
+- `sudo apt-get install lightd`
 
 ## About those files.
 
