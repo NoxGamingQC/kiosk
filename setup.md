@@ -50,6 +50,8 @@ image=splash.png
 ## If it doesnt fit the screen properly uncomment below (Has priority over fullscreen)
 ## stretch=1
 ```
+- Run `sudo cp  boot/initramfs.img /boot`
+- Reboot
 
 ### The project
 
