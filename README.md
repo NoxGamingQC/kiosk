@@ -20,6 +20,8 @@ Install LXDE
 - `sudo apt-get install lxde-core lxterminal lxappearance`
 - `sudo apt-get install lightdm`
 
+I highly recommend you to remove the screensaver here is how: `sudo apt-get purge xscreensaver`
+
 ## About those files.
 
 This exemple uses our cookbook for the kiosk found here:
