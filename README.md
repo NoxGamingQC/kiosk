@@ -8,6 +8,7 @@ For more information please visit: https://www.noxgamingqc/ngst/kiosk
 
 - RaspberryPi 3
 - RaspberryPi OS Lite (32 bit) (Bullseye)
+- Git
 
 _P.S. RaspberryPi 4 is not yet supported_
 
