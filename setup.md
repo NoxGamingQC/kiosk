@@ -39,5 +39,6 @@ If you want to have everything to work well you will need this project ;)
 
 - Copy the file called `autostart` in : `/etc/xdg/openbox/`
 - To start on the GUI instead of the console add in /home/pi/.bash_profile `[[ -z $DISPLAY && $XDG_VTNR -eq 1 ]] && startx -- -nocursor`
+- Make sure you enable autologin in the console with `raspi-config`, it will not work until you log in
 
 Now, you should be good to go
