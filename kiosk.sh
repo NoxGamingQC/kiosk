@@ -33,5 +33,5 @@
 # In this case add an `&` at the end of the browser line:
 #
 while true; do
-chromium-browser --noerrdialogs --disable-infobars --incognito --kiosk https://noxgamingqc.ca/fusee/kiosk&
+chromium-browser --noerrdialogs --disable-infobars --incognito --kiosk https://www.noxgamingqc.ca/fr-ca/kiosk/cookbook&
 done
