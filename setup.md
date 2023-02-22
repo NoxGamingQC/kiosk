@@ -31,7 +31,7 @@ If you know the Pi's IP address you can access with your built in remote desktop
 
 ## Clean boot
 - Disable starting rainbow using `sudo nano /boot/config.txt`: add line `disable_splash=1`
-- Disable booting information using `sudo nano /boot/cmdline.txt`: add at the end of first line `silent quiet splash loglevel=0 logo.nologo vt.global_cursor_default=0`, replace `console=tty1` with `console=tty3`
+- Disable booting information using at the end of first line (It's a one liner if it splits into 2 line the pi will break) `consoleblank=1 logo.nologo quiet loglevel=0 plymouth.enable=0 vt.global_cursor_default=0 plymouth.ignore-serial-consoles splash fastboot noatime nodiratime noram`
 
 ### The project
 
