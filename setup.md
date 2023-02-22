@@ -16,11 +16,6 @@ Reboot if necessary.
 I did got this issue. To resolve it run: `sudo nano /boot/config.txt` then add `lcd_rotate=2` in the file.
 You may need to comment the `dtoverlay=vc4-fkms-v3d` in the file in order for it to work.
 
-## Remote desktop
-
-If you know the Pi's IP address you can access with your built in remote desktop app, but first you need to instal xrdp with the following command: 
-`sudo apt-get install xrdp`
-
 ## Graphical environement
 
 - Install prerequisites using:`sudo apt-get install --no-install-recommends xserver-xorg x11-xserver-utils xinit openbox`
