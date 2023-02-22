@@ -11,6 +11,11 @@ Once you ran the command go in `Sytem Options` and then `Wireless LAN`.
 Follow the instruction.
 Reboot if necessary.
 
+## Inverted screen?
+
+I did got this issue. To resolve it run: `sudo nano /boot/config.txt` then add `lcd_rotate=2` in the file.
+You may need to comment the `dtoverlay=vc4-fkms-v3d` in the file in order for it to work.
+
 ### The project
 
 If you want to have everything to work well you will need this project ;)
