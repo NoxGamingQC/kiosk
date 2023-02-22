@@ -8,7 +8,7 @@ For more information please visit: https://www.noxgamingqc/ngst/kiosk
 
 - RaspberryPi 3
 
-P.S. _RaspberryPi 4 is not yet supported_
+_P.S. RaspberryPi 4 is not yet supported_
 
 
 ## About those files.
