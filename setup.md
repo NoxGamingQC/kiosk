@@ -36,7 +36,7 @@ I highly recommend you to remove the screensaver here is how: `sudo apt-get purg
 
 If you want to have everything to work well you will need this project ;)
 
-- Copy the file called `autostart` in : `/home/pi/.config/lxsession/LXDE-pi/autostart`
+- Copy the file called `autostart` in : `/home/pi/.config/lxsession/LXDE/autostart`
 - Copy and paste the ngst folder in `/home/pi`
 
 Now, you should be good to go
