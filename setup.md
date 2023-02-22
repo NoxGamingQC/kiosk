@@ -27,7 +27,7 @@ If you know the Pi's IP address you can access with your built in remote desktop
 
 ## Install Chromium
 
-- `sudo apt-get install --no-install-recommends`
+- `sudo apt-get install --no-install-recommends chromium-browser`
 
 ## Clean boot
 - Disable starting rainbow using `sudo nano /boot/config.txt`: add line `disable_splash=1`
