@@ -36,7 +36,7 @@ You may need to comment the `dtoverlay=vc4-fkms-v3d` in the file in order for it
 
 ## Adding splash screen
 
-- First of all you need to have the splash screen app: `sudo apt -y install rpd-plym-splash` (Useless?)
+- First of all you need to have the splash screen app: `sudo apt -y install rpd-plym-splash` (Useless? (NEED TO BE TESTED))
 - `git clone --depth=1 https://gitlab.com/DarkElvenAngel/initramfs-splash.git`
 - Add this line to the `/boot/config.txt`: `initramfs initramfs.img`
 - Next you need the image you want to display this can be a PNG, JPEG, or BMP copy it to the `/boot` 
