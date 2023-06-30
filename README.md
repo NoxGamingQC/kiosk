@@ -9,7 +9,8 @@ For more information please visit: https://www.noxgamingqc/kiosk
 - Git
 
 One of the system architecture that is listed below:
-  - [Raspberry Pi 3](Raspberry%20Pi%203)
+  - [Raspberry Pi 3](Linux/Raspberry%20Pi%203)
+  - [Ubuntu](Linux/Ubuntu)
 
 
 ## About those files.
