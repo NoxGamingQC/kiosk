@@ -6,15 +6,11 @@ For more information please visit: https://www.noxgamingqc/kiosk
 
 ## Requirements
 
-- RaspberryPi 3
-- RaspberryPi OS Lite (32 bit) (Bullseye)
 - Git
 
-_P.S. RaspberryPi 4 is not yet supported_
+One of the system architecture that is listed below:
+  - ARMv8
 
-## Systems that the scripts has been tested on
-
-- RaspberryPi 3 (OS Lite 32 bit Bullseye) (ARMv8)
 
 ## About those files.
 
@@ -25,3 +21,10 @@ https://www.noxgamingqc.ca/en-ca/cookbook
 Make sure to edit `./kiosk.sh` for each RaspberryPi.
 
 The complete setup instruction will be listed [here](setup.md).
+
+
+## Systems that the scripts has been tested on
+
+- ARMv8 with RaspberryPi 3 (OS Lite 32 bit Bullseye
+
+- P.S. If the system is not listed above, you might need to do some tweeks. You might also request some help for a specific system as needed.
