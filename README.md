@@ -6,7 +6,7 @@ For more information please visit: https://www.noxgamingqc/kiosk
 
 ## Requirements
 
-- Git
+- Git or download this project
 
 One of the system architecture that is listed below:
 
