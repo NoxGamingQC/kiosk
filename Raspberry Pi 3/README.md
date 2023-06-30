@@ -2,6 +2,10 @@
 
 Right now you should have a fresh installation. We will walk through all the configuration of the system.
 
+## Tested OS
+
+- OS Lite 32 bit Bullseye
+
 ## Wifi
 
 First of all you will need to have wifi setup if you don't have an ethernet cable, here's how to set it up:
