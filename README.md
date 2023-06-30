@@ -17,6 +17,6 @@ _P.S. RaspberryPi 4 is not yet supported_
 This exemple uses our cookbook for the kiosk found here:
 https://www.noxgamingqc.ca/en-ca/cookbook
 
-Make sure to edit `ngst/kiosk.sh` for each RaspberryPi.
+Make sure to edit `./kiosk.sh` for each RaspberryPi.
 
 The complete setup instruction will be listed [here](setup.md).
