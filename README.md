@@ -21,10 +21,3 @@ https://www.noxgamingqc.ca/en-ca/cookbook
 Make sure to edit `./kiosk.sh` for each RaspberryPi.
 
 The complete setup instruction will be listed [here](setup.md).
-
-
-## Systems that the scripts has been tested on
-
-- ARMv8 with RaspberryPi 3 (OS Lite 32 bit Bullseye
-
-- P.S. If the system is not listed above, you might need to do some tweeks. You might also request some help for a specific system as needed.
