@@ -1,6 +1,6 @@
 # Kiosk
 
-This is for use the RaspberryPi as a kiosk.
+This project is only to help you put your system in kiosk mode.
 
 For more information please visit: https://www.noxgamingqc/kiosk
 
@@ -14,6 +14,7 @@ _P.S. RaspberryPi 4 is not yet supported_
 
 ## About those files.
 
+Download only the folder with your system name on it. There will be a script inside that will guide you through the installation.
 This exemple uses our cookbook for the kiosk found here:
 https://www.noxgamingqc.ca/en-ca/cookbook
 
