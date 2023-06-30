@@ -12,6 +12,10 @@ For more information please visit: https://www.noxgamingqc/kiosk
 
 _P.S. RaspberryPi 4 is not yet supported_
 
+## Systems that the scripts has been tested on
+
+- RaspberryPi 3 (OS Lite 32 bit Bullseye) (ARMv8)
+
 ## About those files.
 
 Download only the folder with your system name on it. There will be a script inside that will guide you through the installation.
