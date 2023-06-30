@@ -2,7 +2,7 @@
 
 This is for use the RaspberryPi as a kiosk.
 
-For more information please visit: https://www.noxgamingqc/ngst/kiosk
+For more information please visit: https://www.noxgamingqc/kiosk
 
 ## Requirements
 
@@ -15,7 +15,7 @@ _P.S. RaspberryPi 4 is not yet supported_
 ## About those files.
 
 This exemple uses our cookbook for the kiosk found here:
-https://www.noxgamingqc.ca/fr-ca/kiosk/cookbook
+https://www.noxgamingqc.ca/en-ca/cookbook
 
 Make sure to edit `ngst/kiosk.sh` for each RaspberryPi.
 
