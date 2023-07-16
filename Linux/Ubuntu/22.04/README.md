@@ -25,6 +25,8 @@ A simple kiosk, that allow you to open a browser page on boot. And block any oth
 
 - If you need to do further modification, make sure you have a keyboard connected and press `CTRL + ALT + BACKSPACE`. Once the session is close press the gear on the bottom right corner, then select **Ubuntu**. You can then login.
 
+_P.S. If you forgot to run sudo and you are stuck on a black screen in openbox. You can do a right click and go in terminal and find back this project. You will be able to rerun the script but this time do not forget sudo in front ;)_
+
 ### Install keyboard
 
 I only have found one keyboard that kinda work for the kiosk. Only downside is it isn't sticky. I'm currently doing a custom one. In the meantime you can check this one if you need an immediate solution (Default keyboard doesn't seems to detect text input in browser. So we are using a browser extension) `https://chrome.google.com/webstore/detail/screen-virtual-keyboard-s/gkiknnlmdgcmhmncldcmmnhhdiakielc/related?hl=en-GB`
