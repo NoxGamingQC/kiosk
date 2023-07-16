@@ -1,4 +1,13 @@
-#bin/bash
+#!bin/bash
+
+############################################
+# FILE: KIOSK.SH
+# PROJECT: KIOSK
+# SYSTEM: UBUNTU 22.04
+############################################
+# AUTHORS: NOXGAMINGQC
+# LAST UPDATE: 2023-07-15
+############################################
 
 sudo apt-get install --no-install-recommends xserver-xorg x11-xserver-utils xinit openbox obconf
 
