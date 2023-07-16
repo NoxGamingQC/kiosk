@@ -15,6 +15,8 @@ A simple kiosk, that allow you to open a browser page on boot. And block any oth
 
 - First of all import the appropriate ubuntu folder matching your version.
 
+- In the autostart file edit the link you want the browser to launch on startup
+
 - To set everything up you just have to run **kiosk.sh**: `$ ./kiosk.sh`
 
 - In Ubuntu settings, under the user tab, make sure to check **Autologin** so the user will be connected automatically to the kiosk.

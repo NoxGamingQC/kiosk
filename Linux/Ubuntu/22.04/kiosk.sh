@@ -31,4 +31,6 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 echo "${INFO}Moving autostart${COLOR_RESET}"
 mv autostart /etc/xdg/openbox/autostart
 
+echo "${SUCCESS}Setup completed${COLOR_RESET}"
+
 #openbox --replace
