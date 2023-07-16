@@ -15,19 +15,6 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i google-chrome-stable_current_amd64.deb
 
 
-## move autostart to /etc/xdg/openbox/
+cd autostart /etc/xdg/openbox/autostart
 
 openbox --replace
-
-
-### Change logo on boot
-
-update-alternatives --list default.plymouth
-
-## For just the logo in the splash screen (the one in the center) change /usr/share/plymouth/themes/spinner/bgrt-fallback.png (128x128px)
-
-## For just the logo with the text (the one on the bottom of the screen) change /usr/share/plymouth/themes/spinner/watermark.png (248x87px)
-
-## Might need also to change /usr/share/plymouth/ubuntu-logo.png (248x87px) (possiblement pour écran de connexion)
-
-## For all those enty above make sure to keep the same file name.
