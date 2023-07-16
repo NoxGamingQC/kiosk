@@ -33,4 +33,3 @@ mv autostart /etc/xdg/openbox/autostart
 
 echo -e "${SUCCESS}Setup completed${COLOR_RESET}"
 
-#openbox --replace
