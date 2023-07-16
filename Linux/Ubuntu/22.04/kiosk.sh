@@ -22,15 +22,15 @@ echo -e "${INFO}Installing openbox${COLOR_RESET}"
 
 sudo apt-get install --no-install-recommends xserver-xorg x11-xserver-utils xinit openbox obconf
 
-echo "${INFO}Downloading Google Chrome${COLOR_RESET}"
+echo -e "${INFO}Downloading Google Chrome${COLOR_RESET}"
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
-echo "${INFO}Installing Google Chrome${COLOR_RESET}"
+echo -e "${INFO}Installing Google Chrome${COLOR_RESET}"
 sudo dpkg -i google-chrome-stable_current_amd64.deb
 
-echo "${INFO}Moving autostart${COLOR_RESET}"
+echo -e "${INFO}Moving autostart${COLOR_RESET}"
 mv autostart /etc/xdg/openbox/autostart
 
-echo "${SUCCESS}Setup completed${COLOR_RESET}"
+echo -e "${SUCCESS}Setup completed${COLOR_RESET}"
 
 #openbox --replace
