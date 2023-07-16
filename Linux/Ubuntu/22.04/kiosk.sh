@@ -19,6 +19,6 @@ update-alternatives --list default.plymouth
 
 ## For just the logo with the text (the one on the bottom of the screen) change /usr/share/plymouth/themes/spinner/watermark.png (248x87px)
 
-## Might need also to change /usr/share/plymouth/ubuntu-logo.png (248x87px)
+## Might need also to change /usr/share/plymouth/ubuntu-logo.png (248x87px) (possiblement pour écran de connexion)
 
 ## For all those enty above make sure to keep the same file name.
