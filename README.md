@@ -12,7 +12,8 @@ One of the system architecture that is listed below:
 
 - Linux systems
   - [Raspberry Pi 3](Linux/Raspberry%20Pi%203)
-  - [Ubuntu](Linux/Ubuntu) (Soon)
+  - [Ubuntu](Linux/Ubuntu)
+    - [22.04](Linux/Ubuntu/22.04)
 - Windows
   - Windows 11 (Soon)
 
