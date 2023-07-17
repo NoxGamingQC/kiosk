@@ -5,8 +5,8 @@
 # PROJECT: KIOSK
 # SYSTEM: UBUNTU 22.04
 ############################################
-# AUTHOR: NOXGAMINGQC
-# LAST UPDATE: 2023-07-15
+# UPDATED LAST BY: NOXGAMINGQC
+# LAST UPDATE: 2023-07-17
 ############################################
 
 # Variables

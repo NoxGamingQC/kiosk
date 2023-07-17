@@ -14,9 +14,8 @@ One of the system architecture that is listed below:
   - [Raspberry Pi 3](Linux/Raspberry%20Pi%203)
   - [Ubuntu](Linux/Ubuntu)
     - [22.04](Linux/Ubuntu/22.04)
-- Windows
+- Windows systems
   - Windows 11 (Soon)
-
 
 ## About those files.
 

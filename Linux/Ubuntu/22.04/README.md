@@ -1,10 +1,6 @@
 # Ubuntu 22.04
 
-A simple kiosk, that allow you to open a browser page on boot. And block any other manipulation on the system. (Well if you don't know how to get out of it)
-
-## Requirements
-
-- Ubuntu 22.04
+A simple kiosk for Ubuntu. It allow you to open a browser page on startup. User will be lock on that browser page until the key combination is pressed (Require a physical keyboard).
 
 ## Todo
 
