@@ -25,7 +25,7 @@ _P.S. If you forgot to run sudo and you are stuck on a black screen in openbox. 
 
 ### Install keyboard
 
-I only have found one keyboard that kinda work for the kiosk. Only downside is it isn't sticky. I'm currently doing a custom one. In the meantime you can check this one if you need an immediate solution (Default keyboard doesn't seems to detect text input in browser. So we are using a browser extension) `https://chrome.google.com/webstore/detail/screen-virtual-keyboard-s/gkiknnlmdgcmhmncldcmmnhhdiakielc/related?hl=en-GB`
+I have found a keyboard that work for the kiosk. (It appears on text input or textareas) (Default keyboard doesn't seems to detect text input in browser. So we are using a browser extension) [Recommended keyboard](https://chrome.google.com/webstore/detail/virtual-keyboard/pflmllfnnabikmfkkaddkoolinlfninn)
 
 _P.S. Once it is install, don't forget to allow the plugin to be use in icognito mode. (The kiosk runs in icognito)_
 
