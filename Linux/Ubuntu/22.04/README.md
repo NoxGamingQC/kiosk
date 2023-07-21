@@ -4,7 +4,6 @@ A simple kiosk for Ubuntu. It allow you to open a browser page on startup. User 
 
 ## Todo
 
-- Sticky keyboard
 - Finish the script to allow edit on system that the kiosk is already installed
 
 ## Setting everything up
@@ -32,6 +31,7 @@ _P.S. Once it is install, don't forget to allow the plugin to be use in icognito
 ### Edit the ubuntu logo at boot and on the lock screen
 
 - For the ubuntu logo that is centered you need to edit `/usr/share/plymouth/themes/spinner/bgrt-fallback.png`. The default size of the picture is: 128x128px
+  _P.S. May not work if your motherboard have the manufacturer logo enabled at boot. Should work if you see the ubuntu logo._
 
 - For ubuntu logo with the text, the one that is at the bottom, you need to edit `/usr/share/plymouth/themes/spinner/watermark.png`. The default size of the picture is: 248x87px.
 
