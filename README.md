@@ -1,7 +1,7 @@
 # Kiosk
 
 <p align="left">
-  <img alt="Theme" src="https://img.shields.io/badge/project%20type-system-red?style=for-the-badge" />
+  <img alt="Type" src="https://img.shields.io/badge/project%20type-system-red?style=for-the-badge" />
   <img alt="OS" src="https://img.shields.io/badge/OS-RaspberryPi%203-magenta?style=for-the-badge" />
   <img alt="OS" src="https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge" />
   <img alt="Discord" src="https://img.shields.io/discord/938558244924829756?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=%20&labelColor=%23697EC4&color=%237289DA&link=https%3A%2F%2Fnoxgamingqc.ca%2Fdiscord">
