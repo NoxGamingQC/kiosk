@@ -1,5 +1,7 @@
 # Setup instruction
 
+<img alt="OS" src="https://img.shields.io/badge/OS-RaspberryPi%203-magenta?style=for-the-badge" />
+
 ### WARNING - SCRIPT NOT YET AVAILABLE PLEASE FOLLOW INSTRUCTIONS BELOW.
 Right now you should have a fresh installation. We will walk through all the configuration of the system.
 
