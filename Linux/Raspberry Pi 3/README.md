@@ -1,6 +1,6 @@
 # Setup instruction
 
-<img alt="OS" src="https://img.shields.io/badge/OS-RaspberryPi%203-magenta?style=for-the-badge" />
+[![Raspberry Pi 3](https://img.shields.io/badge/Raspberry%20Pi%203-B61040?style=for-the-badge&logo=raspberry-pi&logoColor=white)](Linux/Raspberry%20Pi%203)
 
 ### WARNING - SCRIPT NOT YET AVAILABLE PLEASE FOLLOW INSTRUCTIONS BELOW.
 Right now you should have a fresh installation. We will walk through all the configuration of the system.
