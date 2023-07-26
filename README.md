@@ -18,7 +18,7 @@ One of the system architecture that is listed below:
 
 - Linux systems
 
-  [![Ubuntu](https://img.shields.io/badge/Raspberry%20Pi%203-B61040?style=for-the-badge&logo=raspberry-pi&logoColor=white)](Linux/Raspberry%20Pi%203)
+  [![Raspberry Pi 3](https://img.shields.io/badge/Raspberry%20Pi%203-B61040?style=for-the-badge&logo=raspberry-pi&logoColor=white)](Linux/Raspberry%20Pi%203)
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=333333)](Linux/Ubuntu/22.04)
 
 - Windows systems
