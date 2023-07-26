@@ -1,6 +1,6 @@
 # Ubuntu 22.04
 
-<img alt="OS" src="https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge" />
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=333333)](Linux/Ubuntu/22.04)
   
 A simple kiosk for Ubuntu. It allow you to open a browser page on startup. User will be lock on that browser page until the key combination is pressed (Require a physical keyboard).
 
