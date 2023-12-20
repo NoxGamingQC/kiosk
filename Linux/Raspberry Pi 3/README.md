@@ -56,6 +56,10 @@ image=splash.png
 - Run `sudo cp  boot/initramfs.img /boot`
 - Reboot
 
+## Enable auto-login
+
+sudo raspi-config
+
 ### The project
 
 If you want to have everything to work well you will need this project ;)
